@@ -44,4 +44,6 @@ Este proyecto consiste en el scraping de precios de diferentes supermercados uti
    - La mayor caída de precios ha sido registrada en **Carrefour**.
    - **Alcampo** muestra los precios más altos para el Aceite de Oliva, posiblemente debido a su amplia gama de productos.
    - **Hipercor** ha mostrado la mayor variabilidad en precios del Aceite de Oliva, siendo **Eroski** el más barato en la actualidad.
-
+5. **Next steps**
+   - Realizar un análisis más exhaustivo de los productos, separando por subcategorías
+   - Fortalecer las queries en CSV y Postgre
