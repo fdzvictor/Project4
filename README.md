@@ -24,7 +24,7 @@ Este proyecto consiste en el scraping de precios de diferentes supermercados uti
 ### Conclusiones Clave
 
 1. **Aceite de Oliva**:
-   - Ha fluctuado considerablemente en los últimos 30 días.
+   - No ha fluctuado considerablemente en los últimos 30 días.
    - El cambio neto porcentual indica un ligero descenso en comparación con el precio en el momento t-1.
    - Los supermercados **Día** y **Mercadona** tienen los precios medios más bajos.
    - **Hipercor** y **Carrefour** presentan los mayores valores atípicos.
