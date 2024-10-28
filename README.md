@@ -47,3 +47,4 @@ Este proyecto consiste en el scraping de precios de diferentes supermercados uti
 5. **Next steps**
    - Realizar un análisis más exhaustivo de los productos, separando por subcategorías
    - Fortalecer las queries en CSV y Postgre
+   - Aplicar la asincronía en procesos de scrapeo
